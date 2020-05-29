@@ -1,8 +1,10 @@
 ## Andre Gray
+PhD Student
+Department of Economics
+University of California San Diego
 
-# CV
-# Working Papers
-# Published
+## Working Papers
+## Published
 
 [Link](https://drive.google.com/file/d/1tJv8fmGj3zLdR4JBuzxvyzSF9wyK232m/view?usp=sharing) 
 
