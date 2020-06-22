@@ -1,3 +1,6 @@
+
+	        [Blog] (/blog)
+
 ## Andre Gray
 PhD Student
 Department of Economics
