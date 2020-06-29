@@ -68,3 +68,11 @@ ul.posts li {
 .profile-picture {
   border-radius: 60%;
 }
+
+subtitle {
+    font-size: 1em;
+    line-height: 1em;
+    text-decoration: none;
+    color: #999;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif'
+}
