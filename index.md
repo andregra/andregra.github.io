@@ -1,3 +1,7 @@
+<head>
+		<title>Andre Gray</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head> 
  <nav>
     		<ul>
         		<li><a href="/">Home</a></li>
