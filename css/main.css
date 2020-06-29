@@ -46,10 +46,8 @@ ul.posts li {
 }
 
 .wrapper {
-  max-width: 50%;
   display: flex;
   flex-direction: row;
-  height: 80%;
 }
 
 .left, .right {
