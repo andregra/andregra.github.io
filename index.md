@@ -16,8 +16,12 @@ title: Andre Gray
         Development/health/behavioral
       </p>
 	<h2> Working Papers</h2>
+		<p> Samek, Anya, Arie Kapteyn, and Andre Gray. “Using Vignettes to Improve Understanding of Social Security and
+			Annuities”. Working paper no. w26176. National Bureau of Economic Research, 2019. </p>
+		<p> Samek, Anya and Gray, Andre and Datar, Ashlesha and Nicosia, Nancy, Adolescent Time and Risk Preferences:
+		Measurement, Determinants and Field Consequences (August 1, 2019). CESR-Schaeffer Working Paper
+			Forthcoming. <a href="https://ssrn.com/abstract=3463495">Available at SSRN</a></p>
 	<h2> Published</h2>
-	<a href="https://drive.google.com/file/d/1tJv8fmGj3zLdR4JBuzxvyzSF9wyK232m/view?usp=sharing">CV here</a>
     </div>
  
   </div>
