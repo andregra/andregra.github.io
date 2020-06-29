@@ -1,2 +1,4 @@
 name: Andre Gray
 markdown: kramdown
+
+theme: jekyll-theme-minimal
