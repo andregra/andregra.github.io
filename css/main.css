@@ -26,7 +26,7 @@ h1 {
 h2, h3, h4 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+p, ul.papers {
     font-size: 1em;
     line-height: 1em;
     color: #333;
@@ -69,7 +69,7 @@ ul.posts li {
   border-radius: 60%;
 }
 
-subtitle {
+subtitle, h4.subtitle {
     font-size: 1em;
     line-height: 1em;
     text-decoration: none;
