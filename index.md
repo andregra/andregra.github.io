@@ -11,6 +11,4 @@ title: Andre Gray
 <h2> Published</h2>
 	<a href="https://drive.google.com/file/d/1tJv8fmGj3zLdR4JBuzxvyzSF9wyK232m/view?usp=sharing">CV here</a>
 </div>
-
-
-
+![useful image](/assets/headshot.jpg)
