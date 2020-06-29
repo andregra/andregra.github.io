@@ -21,6 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    padding: 0px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2, h3 {
@@ -28,7 +29,7 @@ h2, h3 {
 }
 p, ul.papers li {
     font-size: 1em;
-    line-height: 1em;
+    line-height: 1.2em;
     color: #333;
     font-family:'Helvetica', 'Arial', 'Sans-Serif'
 }
