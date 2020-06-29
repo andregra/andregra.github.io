@@ -6,7 +6,17 @@ title: Andre Gray
       <img class="profile-picture" src="/assets/headshot.jpg" width="200"/>
       <h1 class="name">Andre Gray</h1>
       <h4 class="subtitle">PhD Student</h4>
+	<h4 class="subtitle">Department of Economics</h4>
+	     <h4 class="subtitle">University of California, San Diego</h4>
     </div>
+    
+  <div class="right">
+      <p class="bio">
+        Bio goes here
+      </p>
+    </div>
+    
+  </div>
     
     
 <div class="blurb">
@@ -18,4 +28,3 @@ title: Andre Gray
 <h2> Published</h2>
 	<a href="https://drive.google.com/file/d/1tJv8fmGj3zLdR4JBuzxvyzSF9wyK232m/view?usp=sharing">CV here</a>
 </div>
-<img src="/assets/headshot.jpg" alt="headshot" width="200"/>
