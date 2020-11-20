@@ -27,7 +27,7 @@ h1 {
 h2, h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p, ul.papers ul.presentations li {
+p, ul.papers li, ul.presentations li {
     font-size: 1em;
     line-height: 1.2em;
     color: #333;
