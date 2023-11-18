@@ -72,7 +72,7 @@ ul.posts li {
 
 subtitle, h4.subtitle {
     font-size: 1em;
-    line-height: 1em;
+    line-height: 0.5em;
     text-decoration: none;
     color: #999;
     font-family:'Helvetica', 'Arial', 'Sans-Serif'
