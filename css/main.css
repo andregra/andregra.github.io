@@ -50,7 +50,6 @@ ul.posts li {
 .wrapper {
   display: flex;
   flex-direction: row;
-      position:static;
 
 }
 
