@@ -65,6 +65,7 @@ ul.posts li {
 .left {
   align-items: center;
   justify-content: center;
+    position: fixed;
 }
 
 .profile-picture {
