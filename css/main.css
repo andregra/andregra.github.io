@@ -53,8 +53,6 @@ ul.posts li {
 .wrapper {
   display: flex;
   flex-direction: row;
-    position: fixed;
-
 }
 
 .left, .right {
@@ -69,7 +67,7 @@ ul.posts li {
 .left {
   align-items: start;
   justify-content: start;
-    position: fixed;
+    position: absolute;
 }
 
 .profile-picture {
