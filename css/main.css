@@ -67,7 +67,6 @@ ul.posts li {
 .left {
   align-items: start;
   justify-content: start;
-    position: absolute;
 }
 
 .profile-picture {
