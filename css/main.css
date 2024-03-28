@@ -63,8 +63,8 @@ ul.posts li {
 }
 
 .left {
-  align-items: center;
-  justify-content: center;
+  align-items: start;
+  justify-content: start;
 }
 
 .profile-picture {
