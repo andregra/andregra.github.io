@@ -162,8 +162,8 @@ ul.presentations li {
   }
 
   .profile-picture {
-    max-width: 100%;
-    height: auto;
+    width: 80%;
+    max-width: 300px;
   }
   nav ul, footer ul {
     flex-direction: column;
