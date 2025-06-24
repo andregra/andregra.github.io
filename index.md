@@ -2,6 +2,7 @@
 layout: default
 title: Andre Gray
 ---
+<div class="left">
   <div class="profile-header">
     <img class="profile-picture" src="/assets/headshot.jpg" alt="Andre Gray" />
     <div class="profile-text">
@@ -15,6 +16,7 @@ title: Andre Gray
       </p>
     </div>
   </div>
+</div>
 
 
     
