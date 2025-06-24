@@ -4,7 +4,7 @@ title: Andre Gray
 ---
  <div class="wrapper">
  <div class="left">
-        <img class="profile-picture" src="/assets/headshot.jpg" width="300" height="225" />
+<img class="profile-picture" src="/assets/headshot.jpg" alt="Andre Gray" />
         <h1>Andre Gray</h1>
 	<div class="subtitle">
         <h4 class="subtitle">PhD Candidate / Department of Economics </h4>
