@@ -5,6 +5,9 @@ title: Andre Gray
  <div class="wrapper">
  <div class="left">
 <img class="profile-picture" src="/assets/headshot.jpg" alt="Andre Gray" />
+<p class="blurb">
+      I am an applied microeconomist studying urbanization, migration, and public service provision in African cities.
+    </p>
         <h1>Andre Gray</h1>
 	<div class="subtitle">
         <h4 class="subtitle">PhD Candidate / Department of Economics </h4>
