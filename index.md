@@ -7,11 +7,11 @@ title: Andre Gray
     <div class="profile-text">
       <h1>Andre Gray</h1>
       <div class="subtitle">
-        <h4>PhD Candidate / Department of Economics</h4>
+        <h4>PhD Candidate // Department of Economics</h4>
         <h4>University of California, San Diego</h4>
       </div>
       <p class="blurb">
-        I am an applied microeconomist studying urbanization, migration, and public service provision in African cities.
+        I am an economist interested in migration, urban and spatial economics. My work focuses on US and African contexts. I also have extensive experience managing household surveys and randomized controlled trials related to health and education, both in the US and Africa. I am on the 2025-2026 Job Market. You can find me at andre.danielgray@gmail.com or <a href="https://x.com/walcottgray">@walcottgray</a>
       </p>
     </div>
   </div>
