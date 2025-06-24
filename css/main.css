@@ -114,8 +114,8 @@ a:hover {
 /* Container for image + text side by side */
 .profile-header {
   display: flex;
-  gap: 1.5em;
   align-items: flex-start;
+  gap: 2em;
   flex-wrap: wrap;
 }
 
@@ -219,11 +219,6 @@ ul.presentations li {
   }
 }
 
-
-.profile-picture {
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
 
 
 a {
