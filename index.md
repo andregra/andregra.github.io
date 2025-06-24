@@ -51,5 +51,4 @@ title: Andre Gray
 		<li class="presentations">  Roybal Center for Health Decision Making and Financial Independence in Old Age Meeting, <b> Washington DC, Feb 2019 </b>  </li>
 	  	</ul>
     </div>
-</div>
    
