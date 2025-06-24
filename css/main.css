@@ -142,6 +142,15 @@ ul.papers li,
 ul.presentations li {
   margin-bottom: 1em;
 }
+/* Phone Screen */
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+}
+
+/* Make left and right columns stack vertically on small screens */
 @media (max-width: 768px) {
   .wrapper {
     flex-direction: column;
@@ -149,8 +158,13 @@ ul.presentations li {
 
   .left, .right {
     max-width: 100%;
+    flex: 1 1 100%;
   }
 
+  .profile-picture {
+    max-width: 100%;
+    height: auto;
+  }
   nav ul, footer ul {
     flex-direction: column;
     gap: 0.5em;
@@ -160,6 +174,7 @@ ul.presentations li {
     display: block;
   }
 }
+
 
 .profile-picture {
   border-radius: 8px;
