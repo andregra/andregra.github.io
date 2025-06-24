@@ -118,6 +118,19 @@ a:hover {
   margin-bottom: 1em;
 }
 
+.profile-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+}
+
+.blurb {
+  font-size: 0.95em;
+  color: #555;
+  margin: 0;
+  line-height: 1.5;
+}
+
 /* Subtitle Text */
 .subtitle, h4.subtitle {
   font-size: 1em;
