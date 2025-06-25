@@ -33,7 +33,7 @@ title: Andre Gray
 	  	</ul>
 	<h2> Working Papers</h2>
 	  	<ul class="papers">
-			<li> The Impact of Migration on African Cities: Disentangling Levels and Composition <a href="/assets/ethnic_cities_5-13-25.pdf">[Slides]</a>
+			<li> The Impact of Migration on African Cities: Untangling Levels and Composition <a href="/assets/ethnic_cities_5-13-25.pdf">[Slides]</a>
 			</li> 
 			<li> Diversity, Conflict and Agglomeration in African Cities  <a href="/assets/ethnic_cities_2-22-24.pdf">[Slides]</a>
 			</li> 
