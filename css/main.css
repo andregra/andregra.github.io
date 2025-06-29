@@ -251,6 +251,19 @@ body {
   padding: 2em 1em;
 }
 
+<style>
+.abstract {
+  display: none;
+  margin-top: 5px;
+  margin-left: 10px;
+  font-style: italic;
+  color: #444;
+}
+.clickable-paper {
+  font-weight: bold;
+}
+</style>
+
 .wrapper {
   max-width: 960px;
   margin: 0 auto;
