@@ -59,7 +59,7 @@ title: Andre Gray
 	  	</ul>
     </div>
 
-   script>
+   <script>
 document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll(".clickable-paper").forEach(function (el) {
     el.style.cursor = "pointer";
