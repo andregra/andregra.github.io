@@ -251,7 +251,6 @@ body {
   padding: 2em 1em;
 }
 
-<style>
 .abstract {
   display: none;
   margin-top: 5px;
@@ -262,7 +261,6 @@ body {
 .clickable-paper {
   font-weight: bold;
 }
-</style>
 
 .wrapper {
   max-width: 960px;
