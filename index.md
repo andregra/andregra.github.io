@@ -33,8 +33,13 @@ title: Andre Gray
 	  	</ul>
 	<h2> Working Papers</h2>
 	  	<ul class="papers">
-			<li> The Impact of Migration on African Cities: Untangling Levels and Composition <a href="/assets/ethnic_cities_5-13-25.pdf">[Slides]</a>
-			</li> 
+			<li>
+    <span class="clickable-paper">The Impact of Migration on African Cities: Untangling Levels and Composition</span> 
+    <a href="/assets/ethnic_cities_5-13-25.pdf">[Slides]</a>
+    <div class="abstract">
+      To measure the economic impact of migration, it matters not only how many people migrate, but who. In African cities this is particularly stark. High ethnic, linguistic and religous diversity is correlated with low growth and increased conflict among African countries. Migrants from different agro-climatic regions also carry different skills. What is the effect of this diversity on economic performance when migrants from disaparate places move into dense cities? In this paper, I disentangle the effects of migrant flows and migrant ethnic composition on productivity in destinations. I build a subnational panel that proxies origin-destination migration across African cities, and use a Bartik-style instrument that identities shocks to both levels and composition of migrants. I then leverage climate, commodity and conflict data to estimate the role of push shocks on the levels and composition of rural-urban migrants.
+    </div>
+  </li>
 			<li> Diversity, Conflict and Agglomeration in African Cities  <a href="/assets/ethnic_cities_2-22-24.pdf">[Slides]</a>
 			</li> 
 			<li> Historical Immigration and the Market for Schooling in American Cities <a href="/assets/micro286_10-5-23.pdf">[Slides]</a> </li>
@@ -53,4 +58,15 @@ title: Andre Gray
 		<li class="presentations">  Roybal Center for Health Decision Making and Financial Independence in Old Age Meeting, <b> Washington DC, Feb 2019 </b>  </li>
 	  	</ul>
     </div>
-   
+
+   script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".clickable-paper").forEach(function (el) {
+    el.style.cursor = "pointer";
+    el.addEventListener("click", function () {
+      const abstract = el.nextElementSibling.nextElementSibling;
+      abstract.style.display = (abstract.style.display === "block") ? "none" : "block";
+    });
+  });
+});
+</script>
