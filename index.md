@@ -33,8 +33,8 @@ title: Andre Gray
 	  	</ul>
 	<h2> Working Papers</h2>
 	  	<ul class="papers">
-			<li>
-    <span class="clickable-paper">The Impact of Migration on African Cities: Untangling Levels and Composition</span> 
+			<li> The Impact of Migration on African Cities: Untangling Levels and Composition
+    <span class="clickable-paper"> [Abstract] </span> 
     <a href="/assets/ethnic_cities_5-13-25.pdf">[Slides]</a>
     <div class="abstract">
       To measure the economic impact of migration, it matters not only how many people migrate, but who. In African cities this is particularly stark. High ethnic, linguistic and religous diversity is correlated with low growth and increased conflict among African countries. Migrants from different agro-climatic regions also carry different skills. What is the effect of this diversity on economic performance when migrants from disaparate places move into dense cities? In this paper, I disentangle the effects of migrant flows and migrant ethnic composition on productivity in destinations. I build a subnational panel that proxies origin-destination migration across African cities, and use a Bartik-style instrument that identities shocks to both levels and composition of migrants. I then leverage climate, commodity and conflict data to estimate the role of push shocks on the levels and composition of rural-urban migrants.
