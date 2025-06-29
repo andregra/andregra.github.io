@@ -84,12 +84,12 @@ p, ul.papers li, ul.presentations li {
 }
 
 /* Links */
-a {
+a, .clickable-paper {
   color: #0066cc;
   text-decoration: none;
 }
 
-a:hover {
+a:hover, .clickable-paper:hover {
   text-decoration: underline;
 }
 
@@ -222,7 +222,7 @@ ul.presentations li {
 
 
 
-a {
+a, .clickable-paper {
   position: relative;
   color: #0056b3;
   text-decoration: none;
@@ -258,9 +258,7 @@ body {
   font-style: italic;
   color: #444;
 }
-.clickable-paper {
-  font-weight: bold;
-}
+
 
 .wrapper {
   max-width: 960px;
