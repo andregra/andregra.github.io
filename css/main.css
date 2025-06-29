@@ -229,7 +229,7 @@ a, .clickable-paper {
   transition: color 0.2s ease;
 }
 
-a::after {
+a::after, .clickable-paper::after {
   content: '';
   position: absolute;
   left: 0;
@@ -242,7 +242,7 @@ a::after {
   transition: transform 0.25s ease;
 }
 
-a:hover::after {
+a:hover::after, .clickable-paper:hover::after {
   transform: scaleX(1);
   transform-origin: left;
 }
