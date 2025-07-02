@@ -47,9 +47,12 @@ title: Andre Gray
 	  	</ul>
 	  <h2> Conference Presentations </h2>
 	  	<ul class="presentations">
-<li class="presentations"> Institute for Humane Studies Winter Graduate Conference, GMU, Jan 2025</li>
-<li class="presentations"> 2024 Historical Political Economy Conference, USC, Oct 2024</li>
-<li class="presentations"> 2024 Development and Political Economics Conference (DevPEC), April 2024</li>
+<li class="presentations"> Institute for Humane Studies Winter Graduate Conference  <b>GMU, Jan 2025</b>
+</li>
+<li class="presentations"> 2024 Historical Political Economy Conference  <b>USC, Oct 2024</b>
+</li>
+<li class="presentations"> 2024 Development and Political Economics Conference (DevPEC)  <b>Stanford, April 2024</b>
+</li>
 
 			<li class="presentations"> Pacific Conference for Development Economics <b> Stanford, March 2024.</b>
 			</li>
