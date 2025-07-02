@@ -3,7 +3,7 @@ layout: default
 title: Andre Gray
 ---
  <div class="profile-header">
-    <img class="profile-picture" src="/assets/headshot.jpg" alt="Andre Gray" />
+    <img class="profile-picture" src="/assets/headshot_nyc.jpg" alt="Andre Gray" />
     <div class="profile-text">
       <h1>Andre Gray</h1>
       <div class="subtitle">
