@@ -53,8 +53,7 @@ title: Andre Gray
 </li>
 <li class="presentations"> 2024 Development and Political Economics Conference (DevPEC)  <b>Stanford, April 2024</b>
 </li>
-
-			<li class="presentations"> Pacific Conference for Development Economics <b> Stanford, March 2024.</b>
+<li class="presentations"> Pacific Conference for Development Economics <b> Stanford, March 2024.</b>
 			</li>
 			<li class="presentations"> 8th Urbanization and Poverty Reduction Research Conference <b> World Bank, Washington DC, March 2024.</b>
 			</li>
