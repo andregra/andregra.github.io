@@ -21,8 +21,8 @@ title: Andre Gray
     
   <div class="right">
 	<h2> Research Interests </h2>
-      <p class="bio">
-        urban/migration/development
+      <p class="subtitle">
+        Urban//Migration//Development//Housing
       </p>
 	  <h2> Publications </h2>
 	  	<ul class="papers">
