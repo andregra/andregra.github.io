@@ -5,7 +5,6 @@ permalink: /teaching/
 ---
 
  <div class="wrapper">
- <div class="left">	
 	 <h2> MGTA 458: Experiments in Firms [MBA Course] </h2>
 	  	<ul class="papers">
 			<li><a href="/assets/randomization_notes.pdf">Notes on Randomized Experiments  </a>
@@ -24,7 +23,5 @@ permalink: /teaching/
 			<li>GPCO 404: Market Failures </li> 
    			<li>GPCO 407: PolicyAnalysis/DecisionTheory </li> 
 		</ul>
-
-</div>
 </div>
 
