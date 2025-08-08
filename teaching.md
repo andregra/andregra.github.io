@@ -6,7 +6,7 @@ permalink: /teaching/
 
  <div class="wrapper">
  <div class="left">	
-	 <h2> MGTA 458: Experiments in Firms </h2>
+	 <h2> MGTA 458: Experiments in Firms [MBA Course] </h2>
 	  	<ul class="papers">
 			<li><a href="/assets/randomization_notes.pdf">Notes on Randomized Experiments  </a>
 			</li> 
