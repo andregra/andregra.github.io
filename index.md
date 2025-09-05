@@ -40,24 +40,27 @@ title: Andre Gray
       To measure the economic impact of migration, it matters not only how many people migrate, but who. In African cities this is particularly stark. High ethnic, linguistic and religous diversity is correlated with low growth and increased conflict among African countries. Migrants from different agro-climatic regions also carry different skills. What is the effect of this diversity on economic performance when migrants from disaparate places move into dense cities? In this paper, I disentangle the effects of migrant flows and migrant ethnic composition on productivity in destinations. I build a subnational panel that proxies origin-destination migration across African cities, and use a Bartik-style instrument that identifies shocks to both levels and composition of migrants. I then leverage climate, commodity and conflict data to estimate the role of push shocks on the levels and composition of rural-urban migrants.
     </div>
   </li>
-			<li> Diversity, Conflict and Agglomeration in African Cities  <a href="/assets/ethnic_cities_2-22-24.pdf">[Slides]</a>
+
+<li> Diversity, Conflict and Agglomeration in African Cities  <a href="/assets/ethnic_cities_2-22-24.pdf">[Slides]</a>
 			</li> 
 			<li> Historical Immigration and the Market for Schooling in American Cities 
     <span class="clickable-paper"> [Abstract] </span> 
-	<a href="/assets/micro286_10-5-23.pdf">[Slides]</a> </li>
+	<a href="/assets/micro286_10-5-23.pdf">[Slides]</a>
 
 <div class="abstract">
 
 I study the impact of historical migration to American cities on public and private schools in the US. Catholic migrants from southern Europe in the period 1880-1940 created a large demand for private religious schooling in northeastern US cities. How did the demand for private schools affect the growth of the emerging public school sector in these cities? I examine the long term impact of migrants on the strength and persistence of private schools by leveraging within-city variation in exposure to Catholic country migrants, and national-level immigration shocks. Using digitized information on the location and characteristics of individual public and Catholic schools, I show how Catholic immigration affected new school openings, and various dimensions of school quality.				
     </div>
-			<li> Integrating Traditional and Conventional Medicine for Efficient Public Service Delivery
-				    <span class="clickable-paper"> [Abstract] </span> 
+	 </li>
+
+<li> Integrating Traditional and Conventional Medicine for Efficient Public Service Delivery
+<span class="clickable-paper"> [Abstract] </span> 
 
 <div class="abstract">
 Traditional healers are a trusted and widespread presence in many African countries, providing care based on local beliefs and practices. However, their potential role in expanding access to formal healthcare services has yet to be explored. This project investigates whether traditional healers can be effectively integrated into conventional healthcare systems to improve state effectiveness in health service delivery in rural Mozambique. This study builds on preliminary research showing that traditional healers are frequently consulted for both physical and spiritual ailments. Through a randomized evaluation, this project will assess whether training healers to recognize health issues can increase patient referrals to clinics and improve health service delivery and health outcomes in
 rural areas. It will also examine how healer practices and pricing respond to training and how clinics are impacted in terms of patient load and congestion. 
     </div>
-			</li>
+</li>
 	  	</ul>
 	  <h2> Conference Presentations </h2>
 	  	<ul class="presentations">
