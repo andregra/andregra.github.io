@@ -42,7 +42,14 @@ title: Andre Gray
   </li>
 			<li> Diversity, Conflict and Agglomeration in African Cities  <a href="/assets/ethnic_cities_2-22-24.pdf">[Slides]</a>
 			</li> 
-			<li> Historical Immigration and the Market for Schooling in American Cities <a href="/assets/micro286_10-5-23.pdf">[Slides]</a> </li>
+			<li> Historical Immigration and the Market for Schooling in American Cities 
+    <span class="clickable-paper"> [Abstract] </span> 
+    <div class="abstract">
+
+I study the impact of historical migration to American cities on public and private schools in the US. Catholic migrants from southern Europe in the period 1880-1940 created a large demand for private religious schooling in northeastern US cities. How did the demand for private schools affect the growth of the emerging public school sector in these cities? I examine the long term impact of migrants on the strength and persistence of private schools by leveraging within-city variation in exposure to Catholic country migrants, and national-level immigration shocks. Using digitized information on the location and characteristics of individual public and Catholic schools, I show how Catholic immigration affected new school openings, and various dimensions of school quality.				
+    </div>
+
+<a href="/assets/micro286_10-5-23.pdf">[Slides]</a> </li>
 			<li> Integrating Traditional and Conventional Medicine for Efficient Public Service Delivery
 				    <span class="clickable-paper"> [Abstract] </span> 
 
