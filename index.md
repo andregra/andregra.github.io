@@ -43,7 +43,14 @@ title: Andre Gray
 			<li> Diversity, Conflict and Agglomeration in African Cities  <a href="/assets/ethnic_cities_2-22-24.pdf">[Slides]</a>
 			</li> 
 			<li> Historical Immigration and the Market for Schooling in American Cities <a href="/assets/micro286_10-5-23.pdf">[Slides]</a> </li>
-			<li> Traditional Medicine and the Demand for Modern Healthcare </li>
+			<li> Integrating Traditional and Conventional Medicine for Efficient Public Service Delivery
+				    <span class="clickable-paper"> [Abstract] </span> 
+
+<div class="abstract">
+Traditional healers are a trusted and widespread presence in many African countries, providing care based on local beliefs and practices. However, their potential role in expanding access to formal healthcare services has yet to be explored. This project investigates whether traditional healers can be effectively integrated into conventional healthcare systems to improve state effectiveness in health service delivery in rural Mozambique. This study builds on preliminary research showing that traditional healers are frequently consulted for both physical and spiritual ailments. Through a randomized evaluation, this project will assess whether training healers to recognize health issues can increase patient referrals to clinics and improve health service delivery and health outcomes in
+rural areas. It will also examine how healer practices and pricing respond to training and how clinics are impacted in terms of patient load and congestion. 
+    </div>
+			</li>
 	  	</ul>
 	  <h2> Conference Presentations </h2>
 	  	<ul class="presentations">
