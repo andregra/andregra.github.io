@@ -45,7 +45,7 @@ title: Andre Gray
 	  	<ul class="papers">
 <li> Integrating Traditional and Conventional Medicine for Efficient Public Service Delivery
 <span class="clickable-paper"> [Abstract] </span> 
-  <a href="#">[Preliminary Descriptives]</a> 
+  <a href="/assets/paper_draft.pdf">[Preliminary Descriptives]</a> 
 <div class="abstract">
 Traditional healers are a trusted and widespread presence in many African countries, providing care based on local beliefs and practices. However, their potential role in expanding access to formal healthcare services has yet to be explored. This project investigates whether traditional healers can be effectively integrated into conventional healthcare systems to improve state effectiveness in health service delivery in rural Mozambique. This study builds on preliminary research showing that traditional healers are frequently consulted for both physical and spiritual ailments. Through a randomized evaluation, this project will assess whether training healers to recognize health issues can increase patient referrals to clinics and improve health service delivery and health outcomes in
 rural areas. It will also examine how healer practices and pricing respond to training and how clinics are impacted in terms of patient load and congestion. 
