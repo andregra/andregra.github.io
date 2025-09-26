@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-<div class="substack-grid">
+<div >
 
   <div class="substack-post-embed"><p lang="en">Going abroad for a migration estimate by A Dark Room</p><p>Comparing Mexican and CPS data to study the US foreign born crash</p><a data-post-link href="https://adarkroom.substack.com/p/going-abroad-for-a-migration-estimate">Read on Substack</a></div>
 
