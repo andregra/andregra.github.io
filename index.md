@@ -42,7 +42,7 @@ title: Andre Gray
 			Annuities </a>  with Anya Samek, Arie Kapteyn, <i>Journal of Pension Economics and Finance (2021)</i> </li>
 	  	</ul>
 	<h2> Work in Progress </h2>
-	  	<ul class="papers">
+<ul class="papers">
 <li> Integrating Traditional and Conventional Medicine for Efficient Public Service Delivery
 <span class="clickable-paper"> [Abstract] </span> 
   <a href="/assets/paper_draft.pdf">[Preliminary Descriptives]</a> 
@@ -90,9 +90,10 @@ document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll(".clickable-paper").forEach(function (el) {
     el.style.cursor = "pointer";
     el.addEventListener("click", function () {
-      const abstract = el.nextElementSibling.nextElementSibling;
-      abstract.style.display = (abstract.style.display === "block") ? "none" : "block";
+      const abstract = el.parentElement.querySelector(".abstract");
+      if (abstract) {
+        abstract.style.display = (abstract.style.display === "block") ? "none" : "block";
+      }
     });
   });
 });
-</script>
