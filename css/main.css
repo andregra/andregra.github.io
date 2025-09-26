@@ -264,3 +264,18 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+.substack-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 20px; /* space between panels */
+  max-width: 900px; /* optional: center nicely */
+  margin: 0 auto;
+}
+
+.substack-post-embed {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
