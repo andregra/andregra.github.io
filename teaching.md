@@ -21,7 +21,7 @@ permalink: /teaching/
 	 <h2> Graduate Courses Teaching Assistant </h2>
 	  	<ul class="papers">
 			<li>GPCO 404: Market Failures </li> 
-   			<li>GPCO 407: PolicyAnalysis/DecisionTheory </li> 
+   			<li>GPCO 407: PolicyAnalysis / DecisionTheory </li> 
 		</ul>
 </div>
 
