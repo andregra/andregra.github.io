@@ -11,6 +11,11 @@ permalink: /teaching/
 			</li> 
 			<li><a href="/assets/analysis_notes.pdf"> Analysis of Randomized Experiments </a> </li>
 	  	</ul>
+	 <h2> Undergrad Economics Research Lab </h2>
+	  	<ul class="papers">
+			<li><a href="https://github.com/andregra/undergradlab_resources"> Coding Resources  </a>
+			</li> 
+	  	</ul>
 	 	 <h2> Undergraduate Courses Teaching Assistant </h2>
 	  	<ul class="papers">
 			<li>ECON 151: Public Economics 
