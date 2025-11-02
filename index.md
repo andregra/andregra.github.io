@@ -26,9 +26,9 @@ title: Andre Gray
       </p>
 	  <h2> Job Market Paper </h2>
 	  	<ul class="papers">
-			<li> The Effect of Migration on African Cities: Untangling Density and Diversity
+			<li> Density and Diversity in African Cities
     <span class="clickable-paper"> [Abstract] </span> 
-    <a href="/assets/ethnic_cities_5-13-25.pdf">[Slides]</a>
+    <a href="/assets/andregray_jmp.pdf">[Draft]</a>
     <div class="abstract">
       To measure the economic impact of migration, it matters not only how many people migrate, but who. In African cities this is particularly stark. High ethnic, linguistic and religous diversity is correlated with low growth and increased conflict among African countries. Migrants from different agro-climatic regions also carry different skills. What is the effect of this diversity on economic performance when migrants from disparate places move into dense cities? In this paper, I disentangle the effects of migrant flows and migrant ethnic composition on productivity in destinations. I build a subnational panel that proxies origin-destination migration across African cities, and use a Bartik-style instrument that identifies shocks to both levels and composition of migrants. I then leverage climate, commodity and conflict data to estimate the role of push and pull shocks on the levels and composition of rural-urban migrants.
     </div>
