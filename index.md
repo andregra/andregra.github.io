@@ -28,7 +28,7 @@ title: Andre Gray
 	  	<ul class="papers">
 			<li> Density and Diversity in African Cities
     <span class="clickable-paper"> [Abstract] </span> 
-    <a href="/assets/andregray_jmp.pdf">[Full Paper Draft]</a>
+    <a href="/assets/andregray_jmpfull.pdf">[Paper Draft]</a>
     <div class="abstract">
       The impact of migration is not just a function of how many people migrate, but where they come from. Migrants carry region-specific identities, traits and skills that shape outcomes in receiving areas. In rapidly urbanizing African cities, the composition of migrants may play a negative role, as ethnic and linguistic divisions drive conflict and counteract classic agglomeration forces. This paper disentangles the effects of migrant flows and migrant composition on productivity in destinations. I build a subnational panel of internal migrant flows across Africa and develop a nonlinear shift-share instrument that identifies shocks to both levels and the birthplace composition of migrants. Using exogenous variation from climate, commodity and conflict shocks, I identify changes to the size and composition of migrants. I find that cities that receive migrants from more diverse birthplaces have lower short-run growth, but experience long-run urbanization benefits. The effects of migrant composition are heterogenous, with more diverse cities experiencing higher ethnic conflict, but also higher rates of structural transformation. The methods proposed have broad applications to identifying nonlinear effects of migration, when relative group sizes matter for outcomes.
     </div>
@@ -55,7 +55,7 @@ rural areas. It will also examine how healer practices and pricing respond to tr
 <span class="clickable-paper"> [Abstract] </span> 
   <a href="#">[Slides]</a> 
 <div class="abstract">
-I study the impact of historical migration to American cities on public and private schools in the US. Catholic migrants from southern Europe in the period 1880-1940 created a large demand for private religious schooling in northeastern US cities. How did the demand for private schools affect the growth of the emerging public school sector in these cities? I examine the long term impact of migrants on the strength and persistence of private schools by leveraging within-city variation in exposure to Catholic country migrants, and national-level immigration shocks. Using digitized information on the location and characteristics of individual public and Catholic schools, I show how Catholic immigration affected new school openings, and various dimensions of school quality.
+I study the impact of historical migration to American cities on public and private schools in the US. Catholic migrants from southern Europe in the period 1880-1940 created a large demand for private religious schooling in northeastern US cities. How did the demand for private schools affect the growth of the emerging public school sector in these cities? I examine the long term impact of migrants on the strength and persistence of private schools by leveraging within-city variation in exposure to Catholic country migrants, and national-level immigration shocks. Using a novel dataset of digitized information on the location and characteristics of individual public and Catholic schools, I show how Catholic immigration affected new school openings, the human capital of native born children, and the teacher labor market.
     </div>
 </li>
 <li> Red Place, Blue Place: Tiebout Sorting and Labor Misallocation
