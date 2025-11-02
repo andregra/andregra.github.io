@@ -43,6 +43,14 @@ title: Andre Gray
 	  	</ul>
 	<h2> Work in Progress </h2>
 <ul class="papers">
+<li> Historical Immigration and the Market for Schooling in American Cities
+<span class="clickable-paper"> [Abstract] </span> 
+  <a href="#">[Slides]</a> 
+<div class="abstract">
+I study the impact of historical migration to American cities on public and private schools in the US. Catholic migrants from southern Europe in the period 1880-1940 created a large demand for private religious schooling in northeastern US cities. How did the demand for private schools affect the growth of the emerging public school sector in these cities? I examine the long term impact of migrants on the strength and persistence of private schools by leveraging within-city variation in exposure to Catholic country migrants, and national-level immigration shocks. Using a novel dataset of digitized information on the location and characteristics of individual public and Catholic schools, I show how Catholic immigration affected new school openings, the human capital of native born children, and the teacher labor market.
+    </div>
+</li>
+
 <li> Integrating Traditional and Conventional Medicine for Efficient Public Service Delivery
 <span class="clickable-paper"> [Abstract] </span> 
   <a href="">[Preliminary Descriptives]</a> 
@@ -51,14 +59,12 @@ Traditional healers are a trusted and widespread presence in many African countr
 rural areas. It will also examine how healer practices and pricing respond to training and how clinics are impacted in terms of patient load and congestion. 
     </div>
 </li>
-<li> Historical Immigration and the Market for Schooling in American Cities
-<span class="clickable-paper"> [Abstract] </span> 
+<li> Red Place, Blue Place: Tiebout Sorting and Labor Misallocation
+	<span class="clickable-paper"> [Abstract] </span> 
   <a href="#">[Slides]</a> 
 <div class="abstract">
-I study the impact of historical migration to American cities on public and private schools in the US. Catholic migrants from southern Europe in the period 1880-1940 created a large demand for private religious schooling in northeastern US cities. How did the demand for private schools affect the growth of the emerging public school sector in these cities? I examine the long term impact of migrants on the strength and persistence of private schools by leveraging within-city variation in exposure to Catholic country migrants, and national-level immigration shocks. Using a novel dataset of digitized information on the location and characteristics of individual public and Catholic schools, I show how Catholic immigration affected new school openings, the human capital of native born children, and the teacher labor market.
+Labor demand shocks drive changes in the composition of skills and occupations in affected areas. The migrants that respond to these shocks also bring with them political identites that can affect the decision making of municipalities. As the diploma divide widens the educational gap between different political identities, the affect of labor demand shocks may also be polarized along political lines. Using US voter registration records, we study the impact of labor demand shocks on the political composition of migrants. We create a panel of county to county migration flows by Democrat and Republican status, and then examine how these flows change in response to shocks and over time. We document increasing polarization of flows from Democrats to Democratic majority areas, and vice versa. We show that the ratio of Democrat to Republican migrants is unresponsive to a battery of county and state policy shocks. We then explore how different functions of labor demand shocks change migrant composition.
     </div>
-</li>
-<li> Red Place, Blue Place: Tiebout Sorting and Labor Misallocation
 </li>
 	  	</ul>
 	  <h2> Conference Presentations </h2>
