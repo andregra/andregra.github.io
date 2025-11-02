@@ -45,7 +45,6 @@ title: Andre Gray
 <ul class="papers">
 <li> Historical Immigration and the Market for Schooling in American Cities
 <span class="clickable-paper"> [Abstract] </span> 
-  <a href="#">[Slides]</a> 
 <div class="abstract">
 I study the impact of historical migration to American cities on public and private schools in the US. Catholic migrants from southern Europe in the period 1880-1940 created a large demand for private religious schooling in northeastern US cities. How did the demand for private schools affect the growth of the emerging public school sector in these cities? I examine the long term impact of migrants on the strength and persistence of private schools by leveraging within-city variation in exposure to Catholic country migrants, and national-level immigration shocks. Using a novel dataset of digitized information on the location and characteristics of individual public and Catholic schools, I show how Catholic immigration affected new school openings, the human capital of native born children, and the teacher labor market.
     </div>
@@ -53,7 +52,6 @@ I study the impact of historical migration to American cities on public and priv
 
 <li> Integrating Traditional and Conventional Medicine for Efficient Public Service Delivery
 <span class="clickable-paper"> [Abstract] </span> 
-  <a href="">[Preliminary Descriptives]</a> 
 <div class="abstract">
 Traditional healers are a trusted and widespread presence in many African countries, providing care based on local beliefs and practices. However, their potential role in expanding access to formal healthcare services has yet to be explored. This project investigates whether traditional healers can be effectively integrated into conventional healthcare systems to improve state effectiveness in health service delivery in rural Mozambique. This study builds on preliminary research showing that traditional healers are frequently consulted for both physical and spiritual ailments. Through a randomized evaluation, this project will assess whether training healers to recognize health issues can increase patient referrals to clinics and improve health service delivery and health outcomes in
 rural areas. It will also examine how healer practices and pricing respond to training and how clinics are impacted in terms of patient load and congestion. 
@@ -61,9 +59,8 @@ rural areas. It will also examine how healer practices and pricing respond to tr
 </li>
 <li> Red Place, Blue Place: Tiebout Sorting and Labor Misallocation
 	<span class="clickable-paper"> [Abstract] </span> 
-  <a href="#">[Slides]</a> 
 <div class="abstract">
-Labor demand shocks drive changes in the composition of skills and occupations in affected areas. The migrants that respond to these shocks also bring with them political identites that can affect the decision making of municipalities. As the diploma divide widens the educational gap between different political identities, the affect of labor demand shocks may also be polarized along political lines. Using US voter registration records, we study the impact of labor demand shocks on the political composition of migrants. We create a panel of county to county migration flows by Democrat and Republican status, and then examine how these flows change in response to shocks and over time. We document increasing polarization of flows from Democrats to Democratic majority areas, and vice versa. We show that the ratio of Democrat to Republican migrants is unresponsive to a battery of county and state policy shocks. We then explore how different functions of labor demand shocks change migrant composition.
+Migration drives changes in the composition of skills and occupations in affected areas. Migrants also bring with them political identities that can affect the decision making of municipalities. As the diploma divide widens the skill gap between different political parties, the effects of migration shocks may also become polarized along political lines. Using US voter registration records, we study the impact of labor demand and policy shocks on the political composition of migrants. We create a panel of county to county migration flows by Democrat and Republican status, and then examine how these flows change in response to shocks and over time. We document increasing polarization of flows from Democrats to Democratic majority areas, and vice versa. We show that the ratio of Democrat to Republican migrants is unresponsive to a battery of county and state policy shocks. We then explore how different functions of labor demand shocks change migrant composition.
     </div>
 </li>
 	  	</ul>
@@ -91,19 +88,19 @@ Labor demand shocks drive changes in the composition of skills and occupations i
 	  	</ul>
     </div>
 
-   <script>
+<script>
 document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll(".clickable-paper").forEach(function (el) {
     el.style.cursor = "pointer";
     el.addEventListener("click", function () {
-      const abstract = el.parentElement.querySelector(".abstract");
-      if (abstract) {
-        abstract.style.display = (abstract.style.display === "block") ? "none" : "block";
+      const next = el.nextElementSibling;
+      if (next && next.classList.contains("abstract")) {
+        next.style.display = (next.style.display === "block") ? "none" : "block";
+        el.classList.toggle("open");
       }
     });
   });
 });
-	   </script>
-
+</script>
     
     
