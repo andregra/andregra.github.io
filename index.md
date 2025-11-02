@@ -28,7 +28,7 @@ title: Andre Gray
 	  	<ul class="papers">
 			<li> Density and Diversity in African Cities
     <span class="clickable-paper"> [Abstract] </span> 
-    <a href="/assets/andregray_jmpfull.pdf">[Paper Draft]</a>
+    <a href="/assets/andregray_jmp.pdf"><strong>[Paper Draft]</strong></a>
     <div class="abstract">
       The impact of migration is not just a function of how many people migrate, but where they come from. Migrants carry region-specific identities, traits and skills that shape outcomes in receiving areas. In rapidly urbanizing African cities, the composition of migrants may play a negative role, as ethnic and linguistic divisions drive conflict and counteract classic agglomeration forces. This paper disentangles the effects of migrant flows and migrant composition on productivity in destinations. I build a subnational panel of internal migrant flows across Africa and develop a nonlinear shift-share instrument that identifies shocks to both levels and the birthplace composition of migrants. Using exogenous variation from climate, commodity and conflict shocks, I identify changes to the size and composition of migrants. I find that cities that receive migrants from more diverse birthplaces have lower short-run growth, but experience long-run urbanization benefits. The effects of migrant composition are heterogenous, with more diverse cities experiencing higher ethnic conflict, but also higher rates of structural transformation. The methods proposed have broad applications to identifying nonlinear effects of migration, when relative group sizes matter for outcomes.
     </div>
