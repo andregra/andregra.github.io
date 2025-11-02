@@ -11,7 +11,7 @@ title: Andre Gray
         <h4>University of California, San Diego</h4>
       </div>
       <p class="blurb">
-        I am an economist interested in migration and urban development. My work spans US and African contexts. I've also managed household surveys and randomized controlled trials related to health and education in the US, Nigeria and Mozambique. I am on the 2025-2026 Job Market. You can contact me at andre.danielgray@gmail.com or <a href="https://x.com/walcottgray">@walcottgray</a>
+        I am an urban and development economist interested in the impact of migration on market structure, amenities and urban growth. My work spans US and African contexts. I've also managed household surveys and randomized controlled trials related to health and education in the US, Nigeria and Mozambique. I am on the 2025-2026 Job Market. You can contact me at andre.danielgray@gmail.com or <a href="https://x.com/walcottgray">@walcottgray</a>
       </p>
     </div>
   </div>
@@ -28,9 +28,9 @@ title: Andre Gray
 	  	<ul class="papers">
 			<li> Density and Diversity in African Cities
     <span class="clickable-paper"> [Abstract] </span> 
-    <a href="/assets/andregray_jmp.pdf">[Draft]</a>
+    <a href="/assets/andregray_jmp.pdf">[Full Paper Draft]</a>
     <div class="abstract">
-      To measure the economic impact of migration, it matters not only how many people migrate, but who. In African cities this is particularly stark. High ethnic, linguistic and religous diversity is correlated with low growth and increased conflict among African countries. Migrants from different agro-climatic regions also carry different skills. What is the effect of this diversity on economic performance when migrants from disparate places move into dense cities? In this paper, I disentangle the effects of migrant flows and migrant ethnic composition on productivity in destinations. I build a subnational panel that proxies origin-destination migration across African cities, and use a Bartik-style instrument that identifies shocks to both levels and composition of migrants. I then leverage climate, commodity and conflict data to estimate the role of push and pull shocks on the levels and composition of rural-urban migrants.
+      The impact of migration is not just a function of how many people migrate, but where they come from. Migrants carry region-specific identities, traits and skills that shape outcomes in receiving areas. In rapidly urbanizing African cities, the composition of migrants may play a negative role, as ethnic and linguistic divisions drive conflict and counteract classic agglomeration forces. This paper disentangles the effects of migrant flows and migrant composition on productivity in destinations. I build a subnational panel of internal migrant flows across Africa and develop a nonlinear shift-share instrument that identifies shocks to both levels and the birthplace composition of migrants. Using exogenous variation from climate, commodity and conflict shocks, I identify changes to the size and composition of migrants. I find that cities that receive migrants from more diverse birthplaces have lower short-run growth, but experience long-run urbanization benefits. The effects of migrant composition are heterogenous, with more diverse cities experiencing higher ethnic conflict, but also higher rates of structural transformation. The methods proposed have broad applications to identifying nonlinear effects of migration, when relative group sizes matter for outcomes.
     </div>
   </li>
 			</ul>
