@@ -11,7 +11,7 @@ title: Andre Gray
         <h4>University of California, San Diego</h4>
       </div>
       <p class="blurb">
-        I am an urban and development economist interested in the impact of migration on market structure, amenities and urban growth. My work spans US and African contexts. I've also managed household surveys and randomized controlled trials related to health and education in the US, Nigeria and Mozambique. I am on the 2025-2026 Job Market. You can contact me at <strong>andre.danielgray@gmail.com</strong> or <a href="https://x.com/walcottgray">@walcottgray</a>
+        I am an urban and development economist interested in the impact of migration and migrant identity on market structure, amenities and urban growth. My work spans US and African contexts. I've also managed household surveys and randomized controlled trials related to beliefs, preferences and health decisions in the US, Nigeria and Mozambique. I am on the 2025-2026 Job Market. You can contact me at <strong>andre.danielgray@gmail.com</strong> or <a href="https://x.com/walcottgray">@walcottgray</a>
       </p>
     </div>
   </div>
