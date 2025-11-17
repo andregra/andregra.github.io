@@ -60,8 +60,7 @@ rural areas. It will also examine how healer practices and pricing respond to tr
 </li>
 <li> Red Place, Blue Place: Tiebout Sorting and Labor Misallocation
 <a href="/assets/tiebout_slides.pdf"> [Slides] </a>
-
-	<span class="clickable-paper"> [Abstract] </span> 
+<span class="clickable-paper"> [Abstract] </span> 
 <div class="abstract">
 Migration drives changes in the composition of skills and occupations in affected areas. Migrants also bring with them political identities that can affect the decision making of municipalities. As the diploma divide widens the skill gap between different political parties, the effects of migration shocks may also become polarized along political lines. Using US voter registration records, we study the impact of labor demand and policy shocks on the political composition of migrants. We create a panel of county to county migration flows by Democrat and Republican status, and then examine how these flows change in response to shocks and over time. We document increasing polarization of flows from Democrats to Democratic majority areas, and vice versa. We show that the ratio of Democrat to Republican migrants is unresponsive to a battery of county and state policy shocks. We then explore how different functions of labor demand shocks change migrant composition.
     </div>
