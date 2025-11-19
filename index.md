@@ -22,7 +22,7 @@ title: Andre Gray
   <div class="right">
 	<h2> Research Interests </h2>
       <p class="subtitle">
-        Urban // Migration // Development // Housing
+        Urban // Development // Migration // Housing
       </p>
 	  <h2> Job Market Paper </h2>
 	  	<ul class="papers">
